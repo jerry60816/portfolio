@@ -269,7 +269,7 @@ img {
   margin-bottom: var(--mb-2);
 }
 .about__block {
-  margin-bottom: 20px; /* Adjust this value as needed for spacing between blocks */
+  margin-bottom: 16px; /* Adjust this value as needed for spacing between blocks */
 }
 .about__text {
   font-size: 20px; /* Smaller font size for smaller screens */
